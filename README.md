@@ -70,7 +70,7 @@ This project implements an end-to-end machine learning pipeline for predicting w
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/wind-turbine-mlflow-pipeline.git
+git clone https://github.com/Yogesh-kore/wind-turbine-mlflow-pipeline.git
 cd wind-turbine-mlflow-pipeline
 ```
 
