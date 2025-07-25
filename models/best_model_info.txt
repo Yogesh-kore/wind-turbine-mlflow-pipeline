@@ -1,0 +1,5 @@
+Model Name: Linearregression
+rmse: 1.1452515462842292e-14
+mae: 8.526124251062583e-15
+r2: 1.0
+Timestamp: 2025-07-25T16:42:35.182471
